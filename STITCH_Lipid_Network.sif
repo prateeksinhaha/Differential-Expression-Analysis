@@ -1,0 +1,603 @@
+CYP11A1	interacts with	cholesterol
+CYP11A1	interacts with	SCARB1
+CYP11A1	interacts with	24S-hydroxycho.
+cholesterol	interacts with	Triacylglycero.
+cholesterol	interacts with	24S-hydroxycho.
+cholesterol	interacts with	lecithin
+cholesterol	interacts with	oleic acid
+cholesterol	interacts with	27-hydroxychol.
+cholesterol	interacts with	sphingomyelin
+cholesterol	interacts with	ceramide
+cholesterol	interacts with	phosphatid.min.
+cholesterol	interacts with	eicosapent.d (.
+cholesterol	interacts with	linolenic acid
+cholesterol	interacts with	cardiolipin
+cholesterol	interacts with	sphingosine
+cholesterol	interacts with	phosphatidic a.
+cholesterol	interacts with	phosphatid. (P.
+cholesterol	interacts with	docosahexaenoi.
+cholesterol	interacts with	sphingosine-1-.
+cholesterol	interacts with	monoacylglycer.
+cholesterol	interacts with	anandamide
+CNR1	interacts with	anandamide
+CNR1	interacts with	2-arachidonoyl.
+CNR1	interacts with	S1PR5
+CNR1	interacts with	FAAH
+CNR1	interacts with	sphingosine-1-.
+CNR1	interacts with	S1PR1
+CNR1	interacts with	S1PR3
+CNR1	interacts with	S1PR4
+CNR1	interacts with	SREBF1
+CNR1	interacts with	MGLL
+CNR1	interacts with	arachidonic ac.
+CNR1	interacts with	ALB
+anandamide	interacts with	phosphatid.min.
+2-arachidonoyl.	interacts with	anandamide
+2-arachidonoyl.	interacts with	sphingosine-1-.
+2-arachidonoyl.	interacts with	monoacylglycer.
+PTGS1	interacts with	arachidonic ac.
+PTGS1	interacts with	PLA2G1B
+PTGS1	interacts with	eicosapent.d (.
+PTGS1	interacts with	ALOX12
+PTGS1	interacts with	ALOX15
+PTGS1	interacts with	PLB1
+PTGS1	interacts with	linolenic acid
+PTGS1	interacts with	docosahexaenoi.
+arachidonic ac.	interacts with	eicosapent.d (.
+arachidonic ac.	interacts with	linolenic acid
+arachidonic ac.	interacts with	anandamide
+arachidonic ac.	interacts with	2-arachidonoyl.
+arachidonic ac.	interacts with	lecithin
+arachidonic ac.	interacts with	docosahexaenoi.
+arachidonic ac.	interacts with	phosphatid.min.
+arachidonic ac.	interacts with	cholesterol
+arachidonic ac.	interacts with	oleic acid
+arachidonic ac.	interacts with	phosphatidic a.
+arachidonic ac.	interacts with	Triacylglycero.
+arachidonic ac.	interacts with	sphingomyelin
+arachidonic ac.	interacts with	cardiolipin
+arachidonic ac.	interacts with	ceramide
+arachidonic ac.	interacts with	monoacylglycer.
+arachidonic ac.	interacts with	lysophosph.yle.
+arachidonic ac.	interacts with	phosphatid. (P.
+arachidonic ac.	interacts with	sphingosine
+arachidonic ac.	interacts with	sphingosine-1-.
+arachidonic ac.	interacts with	PtdIns
+ALOX5	interacts with	arachidonic ac.
+ALOX5	interacts with	PTGS2
+ALOX5	interacts with	PLA2G4A
+ALOX5	interacts with	PTGS1
+ALOX5	interacts with	ALB
+ALOX5	interacts with	APOE
+ALOX5	interacts with	eicosapent.d (.
+APOA1	interacts with	APOB
+APOA1	interacts with	cholesterol
+APOA1	interacts with	CETP
+APOA1	interacts with	arachidonic ac.
+APOA1	interacts with	Triacylglycero.
+APOA1	interacts with	sphingomyelin
+APOA1	interacts with	lecithin
+APOA1	interacts with	oleic acid
+APOA1	interacts with	linolenic acid
+APOA1	interacts with	eicosapent.d (.
+APOA1	interacts with	PtdIns
+APOB	interacts with	cholesterol
+APOB	interacts with	Triacylglycero.
+APOB	interacts with	CETP
+APOB	interacts with	oleic acid
+APOB	interacts with	PtdIns
+APOB	interacts with	linolenic acid
+APOB	interacts with	DGAT2
+Triacylglycero.	interacts with	monoacylglycer.
+Triacylglycero.	interacts with	lecithin
+Triacylglycero.	interacts with	sphingomyelin
+sphingosine	interacts with	sphingosine-1-.
+sphingosine	interacts with	sphingomyelin
+sphingosine	interacts with	ceramide
+sphingosine	interacts with	phosphatidic a.
+sphingosine	interacts with	phosphatid.min.
+sphingosine	interacts with	monoacylglycer.
+sphingosine	interacts with	cardiolipin
+sphingosine	interacts with	Triacylglycero.
+sphingosine-1-.	interacts with	sphingomyelin
+sphingosine-1-.	interacts with	phosphatidic a.
+sphingosine-1-.	interacts with	phosphatid.min.
+sphingosine-1-.	interacts with	monoacylglycer.
+ABCA1	interacts with	APOA1
+ABCA1	interacts with	cholesterol
+ABCA1	interacts with	APOE
+ABCA1	interacts with	APOB
+ABCA1	interacts with	SREBF1
+ABCA1	interacts with	SREBF2
+ABCA1	interacts with	arachidonic ac.
+ABCA1	interacts with	eicosapent.d (.
+ABCA1	interacts with	linolenic acid
+ABCA1	interacts with	SCARB1
+ABCA1	interacts with	sphingomyelin
+ABCA1	interacts with	LPA
+ABCA1	interacts with	24S-hydroxycho.
+ABCA1	interacts with	27-hydroxychol.
+ABCA1	interacts with	LCAT
+ABCA1	interacts with	oleic acid
+ABCA1	interacts with	NPC1
+ABCA1	interacts with	CYP7A1
+ABCA1	interacts with	CETP
+ABCA1	interacts with	LPL
+ABCA1	interacts with	HMGCR
+ABCA1	interacts with	SOAT1
+ABCA1	interacts with	MTTP
+ABCA1	interacts with	ALB
+ABCA1	interacts with	Triacylglycero.
+ABCA1	interacts with	DGAT2
+PTGS2	interacts with	arachidonic ac.
+PTGS2	interacts with	PLA2G4A
+PTGS2	interacts with	PLA2G1B
+PTGS2	interacts with	eicosapent.d (.
+PTGS2	interacts with	ALOX12
+PTGS2	interacts with	ALOX15
+PTGS2	interacts with	PLB1
+PTGS2	interacts with	linolenic acid
+PTGS2	interacts with	sphingosine-1-.
+PTGS2	interacts with	APOE
+PTGS2	interacts with	ceramide
+PTGS2	interacts with	docosahexaenoi.
+PTGS2	interacts with	2-arachidonoyl.
+PTGS2	interacts with	PTGS1
+PTGS2	interacts with	STAR
+PTGS2	interacts with	anandamide
+LCAT	interacts with	APOA1
+LCAT	interacts with	cholesterol
+LCAT	interacts with	Triacylglycero.
+LCAT	interacts with	lecithin
+LCAT	interacts with	APOE
+LCAT	interacts with	APOB
+LCAT	interacts with	DGAT2
+LCAT	interacts with	SCARB1
+LCAT	interacts with	CETP
+LCAT	interacts with	sphingomyelin
+LCAT	interacts with	phosphatid.min.
+LCAT	interacts with	oleic acid
+LCAT	interacts with	arachidonic ac.
+CYP7A1	interacts with	cholesterol
+CYP7A1	interacts with	27-hydroxychol.
+CYP7A1	interacts with	linolenic acid
+CYP7A1	interacts with	arachidonic ac.
+CYP7A1	interacts with	eicosapent.d (.
+CYP7A1	interacts with	24S-hydroxycho.
+CYP7A1	interacts with	SCARB1
+CYP7A1	interacts with	HMGCR
+CYP7A1	interacts with	APOB
+CYP7A1	interacts with	Triacylglycero.
+CYP7A1	interacts with	APOE
+CYP7A1	interacts with	APOA1
+CYP7A1	interacts with	MTTP
+CYP7A1	interacts with	CETP
+CYP7A1	interacts with	LCAT
+CYP7A1	interacts with	ALB
+LPL	interacts with	Triacylglycero.
+LPL	interacts with	APOE
+LPL	interacts with	APOB
+LPL	interacts with	cholesterol
+LPL	interacts with	APOA1
+LPL	interacts with	MGLL
+LPL	interacts with	oleic acid
+LPL	interacts with	CETP
+LPL	interacts with	LCAT
+LPL	interacts with	ALB
+LPL	interacts with	MTTP
+LPL	interacts with	SCARB1
+LPL	interacts with	monoacylglycer.
+LPL	interacts with	HMGCR
+LPL	interacts with	DGAT2
+LPL	interacts with	CYP7A1
+LPL	interacts with	arachidonic ac.
+LPL	interacts with	2-arachidonoyl.
+S1PR1	interacts with	sphingosine-1-.
+S1PR1	interacts with	S1PR4
+S1PR1	interacts with	2-arachidonoyl.
+S1PR1	interacts with	SPHK2
+S1PR1	interacts with	sphingosine
+FAAH	interacts with	anandamide
+FAAH	interacts with	oleic acid
+FAAH	interacts with	arachidonic ac.
+FAAH	interacts with	2-arachidonoyl.
+HMGCR	interacts with	cholesterol
+HMGCR	interacts with	arachidonic ac.
+HMGCR	interacts with	linolenic acid
+HMGCR	interacts with	eicosapent.d (.
+HMGCR	interacts with	24S-hydroxycho.
+HMGCR	interacts with	APOB
+HMGCR	interacts with	APOE
+HMGCR	interacts with	NPC1
+HMGCR	interacts with	APOA1
+HMGCR	interacts with	SCARB1
+HMGCR	interacts with	MTTP
+HMGCR	interacts with	Triacylglycero.
+HMGCR	interacts with	27-hydroxychol.
+HMGCR	interacts with	LCAT
+HMGCR	interacts with	CETP
+HMGCR	interacts with	STAR
+MTTP	interacts with	APOB
+MTTP	interacts with	cholesterol
+MTTP	interacts with	APOA1
+MTTP	interacts with	Triacylglycero.
+MTTP	interacts with	DGAT2
+MTTP	interacts with	APOE
+MTTP	interacts with	SCARB1
+MTTP	interacts with	CETP
+MTTP	interacts with	LCAT
+S1PR3	interacts with	sphingosine-1-.
+S1PR3	interacts with	S1PR4
+S1PR3	interacts with	S1PR5
+S1PR3	interacts with	S1PR1
+S1PR3	interacts with	2-arachidonoyl.
+S1PR3	interacts with	SPHK1
+S1PR3	interacts with	SPHK2
+S1PR3	interacts with	sphingosine
+PLA2G1B	interacts with	arachidonic ac.
+PLA2G1B	interacts with	PtdIns
+PLA2G1B	interacts with	linolenic acid
+PLA2G1B	interacts with	ALOX15
+PLA2G1B	interacts with	FADS2
+PLA2G1B	interacts with	ALOX12
+PLA2G1B	interacts with	sphingomyelin
+PLA2G1B	interacts with	ceramide
+SMPD1	interacts with	sphingomyelin
+SMPD1	interacts with	sphingosine
+SMPD1	interacts with	ceramide
+SMPD1	interacts with	SPHK1
+SMPD1	interacts with	NPC1
+SMPD1	interacts with	ALB
+SMPD1	interacts with	SPHK2
+sphingomyelin	interacts with	lysophosph.yle.
+APOE	interacts with	APOB
+APOE	interacts with	cholesterol
+APOE	interacts with	APOA1
+APOE	interacts with	oleic acid
+APOE	interacts with	Triacylglycero.
+APOE	interacts with	PtdIns
+APOE	interacts with	ceramide
+APOE	interacts with	CETP
+APOE	interacts with	sphingomyelin
+APOE	interacts with	arachidonic ac.
+CNR2	interacts with	2-arachidonoyl.
+CNR2	interacts with	anandamide
+CNR2	interacts with	CNR1
+CNR2	interacts with	S1PR1
+CNR2	interacts with	S1PR3
+CNR2	interacts with	S1PR5
+CNR2	interacts with	sphingosine-1-.
+CNR2	interacts with	S1PR4
+CNR2	interacts with	ALOX5
+CNR2	interacts with	FAAH
+CNR2	interacts with	ALB
+CNR2	interacts with	MGLL
+CETP	interacts with	cholesterol
+CETP	interacts with	Triacylglycero.
+SPHK1	interacts with	sphingosine
+SPHK1	interacts with	sphingosine-1-.
+SPHK1	interacts with	S1PR1
+SPHK1	interacts with	PRKCG
+SPHK1	interacts with	ceramide
+SPHK1	interacts with	S1PR4
+SPHK1	interacts with	sphingomyelin
+SPHK1	interacts with	ALB
+S1PR2	interacts with	sphingosine-1-.
+S1PR2	interacts with	S1PR4
+S1PR2	interacts with	S1PR5
+S1PR2	interacts with	S1PR3
+S1PR2	interacts with	CNR1
+S1PR2	interacts with	S1PR1
+S1PR2	interacts with	2-arachidonoyl.
+S1PR2	interacts with	CNR2
+S1PR2	interacts with	SPHK1
+S1PR2	interacts with	SPHK2
+S1PR2	interacts with	sphingosine
+S1PR5	interacts with	sphingosine-1-.
+S1PR5	interacts with	S1PR4
+S1PR5	interacts with	S1PR1
+S1PR5	interacts with	2-arachidonoyl.
+S1PR5	interacts with	SPHK2
+S1PR5	interacts with	SPHK1
+TRPV1	interacts with	anandamide
+TRPV1	interacts with	CNR1
+TRPV1	interacts with	FAAH
+TRPV1	interacts with	eicosapent.d (.
+TRPV1	interacts with	linolenic acid
+TRPV1	interacts with	PTGS2
+TRPV1	interacts with	monoacylglycer.
+TRPV1	interacts with	ABCA1
+TRPV1	interacts with	MGLL
+TRPV1	interacts with	PTGS1
+TRPV1	interacts with	CNR2
+TRPV1	interacts with	ALB
+TRPV1	interacts with	arachidonic ac.
+SREBF2	interacts with	cholesterol
+SREBF2	interacts with	HMGCR
+SREBF2	interacts with	APOB
+SREBF2	interacts with	arachidonic ac.
+SREBF2	interacts with	eicosapent.d (.
+SREBF2	interacts with	linolenic acid
+SREBF2	interacts with	SCARB1
+SREBF2	interacts with	CYP7A1
+SREBF2	interacts with	NPC1
+SREBF2	interacts with	MTTP
+SREBF2	interacts with	SREBF1
+SREBF2	interacts with	APOE
+SREBF2	interacts with	LPL
+SREBF2	interacts with	Triacylglycero.
+SREBF2	interacts with	APOA1
+SREBF2	interacts with	DGAT2
+SREBF2	interacts with	ALB
+PLA2G4A	interacts with	arachidonic ac.
+PLA2G4A	interacts with	PTGS1
+PLA2G4A	interacts with	ALOX12
+PLA2G4A	interacts with	ALOX15
+PLA2G4A	interacts with	FADS2
+PLA2G4A	interacts with	PLB1
+PLA2G4A	interacts with	lecithin
+PLA2G4A	interacts with	linolenic acid
+PLA2G4A	interacts with	LPCAT4
+PLA2G4A	interacts with	ceramide
+PLA2G4A	interacts with	PRKCG
+PLA2G4A	interacts with	phosphatidic a.
+PLA2G4A	interacts with	LPA
+PLA2G4A	interacts with	PLA2G1B
+PLA2G4A	interacts with	LCAT
+ABCG1	interacts with	cholesterol
+ABCG1	interacts with	APOA1
+ABCG1	interacts with	SCARB1
+ABCG1	interacts with	Triacylglycero.
+ABCG1	interacts with	NPC1
+ABCG1	interacts with	ALB
+ABCG1	interacts with	APOE
+ABCG1	interacts with	SREBF1
+ABCG1	interacts with	LPA
+ABCG1	interacts with	CYP7A1
+ABCG1	interacts with	SREBF2
+ABCG1	interacts with	LCAT
+ABCG1	interacts with	APOB
+ABCG1	interacts with	LPL
+ABCG1	interacts with	CETP
+ABCG1	interacts with	HMGCR
+eicosapent.d (.	interacts with	Triacylglycero.
+eicosapent.d (.	interacts with	phosphatid.min.
+LPA	interacts with	APOB
+LPA	interacts with	cholesterol
+LPA	interacts with	Triacylglycero.
+LPA	interacts with	APOA1
+LPA	interacts with	LCAT
+LPA	interacts with	APOE
+LPA	interacts with	LPL
+LPA	interacts with	SCARB1
+LPA	interacts with	ALB
+LPA	interacts with	CETP
+LPA	interacts with	MTTP
+LPA	interacts with	HMGCR
+MGLL	interacts with	2-arachidonoyl.
+MGLL	interacts with	monoacylglycer.
+MGLL	interacts with	arachidonic ac.
+MGLL	interacts with	FAAH
+MGLL	interacts with	anandamide
+MGLL	interacts with	DGAT2
+MGLL	interacts with	LCAT
+STAR	interacts with	cholesterol
+STAR	interacts with	CYP11A1
+STAR	interacts with	SCARB1
+STAR	interacts with	NPC1
+ceramide	interacts with	sphingomyelin
+ceramide	interacts with	sphingosine-1-.
+ceramide	interacts with	phosphatidic a.
+ceramide	interacts with	cardiolipin
+ceramide	interacts with	phosphatid.min.
+ceramide	interacts with	Triacylglycero.
+ceramide	interacts with	monoacylglycer.
+ceramide	interacts with	phosphatid. (P.
+oleic acid	interacts with	Triacylglycero.
+oleic acid	interacts with	eicosapent.d (.
+oleic acid	interacts with	docosahexaenoi.
+oleic acid	interacts with	phosphatid.min.
+oleic acid	interacts with	sphingomyelin
+oleic acid	interacts with	ceramide
+oleic acid	interacts with	phosphatidic a.
+oleic acid	interacts with	lecithin
+oleic acid	interacts with	monoacylglycer.
+oleic acid	interacts with	cardiolipin
+oleic acid	interacts with	sphingosine
+oleic acid	interacts with	phosphatid. (P.
+DHCR24	interacts with	cholesterol
+DHCR24	interacts with	SOAT1
+DHCR24	interacts with	CYP7A1
+DHCR24	interacts with	CYP11A1
+DHCR24	interacts with	HMGCR
+DHCR24	interacts with	SREBF2
+VR1	interacts with	CNR1
+VR1	interacts with	anandamide
+VR1	interacts with	FAAH
+VR1	interacts with	eicosapent.d (.
+VR1	interacts with	linolenic acid
+VR1	interacts with	PTGS2
+VR1	interacts with	monoacylglycer.
+VR1	interacts with	ABCA1
+VR1	interacts with	MGLL
+VR1	interacts with	PTGS1
+VR1	interacts with	TRPV1
+VR1	interacts with	CNR2
+VR1	interacts with	ALB
+VR1	interacts with	arachidonic ac.
+ALB	interacts with	cholesterol
+ALB	interacts with	oleic acid
+ALB	interacts with	APOA1
+ALB	interacts with	LCAT
+ALB	interacts with	lecithin
+ALB	interacts with	APOE
+ALB	interacts with	arachidonic ac.
+ALB	interacts with	APOB
+ALB	interacts with	HMGCR
+ALB	interacts with	Triacylglycero.
+ALB	interacts with	SCARB1
+ALB	interacts with	MTTP
+ALB	interacts with	FAAH
+ALOX12	interacts with	arachidonic ac.
+ALOX12	interacts with	linolenic acid
+SOAT1	interacts with	cholesterol
+SOAT1	interacts with	CYP7A1
+SOAT1	interacts with	LCAT
+SOAT1	interacts with	CYP11A1
+SOAT1	interacts with	DGAT2
+SOAT1	interacts with	HMGCR
+SOAT1	interacts with	APOB
+SOAT1	interacts with	APOE
+SOAT1	interacts with	SCARB1
+SOAT1	interacts with	ABCG1
+SOAT1	interacts with	MTTP
+SOAT1	interacts with	SREBF2
+SOAT1	interacts with	NPC1
+SOAT1	interacts with	APOA1
+SOAT1	interacts with	LPL
+SOAT1	interacts with	SREBF1
+SOAT1	interacts with	ALB
+SOAT1	interacts with	LPA
+SCARB1	interacts with	cholesterol
+SCARB1	interacts with	APOE
+SCARB1	interacts with	APOA1
+SCARB1	interacts with	APOB
+SCARB1	interacts with	phosphatid. (P.
+SCARB1	interacts with	linolenic acid
+SCARB1	interacts with	anandamide
+SCARB1	interacts with	CETP
+SCARB1	interacts with	Triacylglycero.
+SCARB1	interacts with	lecithin
+linolenic acid	interacts with	eicosapent.d (.
+linolenic acid	interacts with	oleic acid
+linolenic acid	interacts with	docosahexaenoi.
+linolenic acid	interacts with	Triacylglycero.
+linolenic acid	interacts with	phosphatid.min.
+PRKCG	interacts with	arachidonic ac.
+PRKCG	interacts with	sphingosine
+PRKCG	interacts with	SPHK2
+PRKCG	interacts with	phosphatidic a.
+PRKCG	interacts with	ceramide
+PRKCG	interacts with	cholesterol
+PRKCA	interacts with	arachidonic ac.
+PRKCA	interacts with	SPHK1
+PRKCA	interacts with	PRKCG
+PRKCA	interacts with	sphingosine
+PRKCA	interacts with	ceramide
+PRKCA	interacts with	phosphatid. (P.
+PRKCA	interacts with	PLA2G4A
+PRKCA	interacts with	SPHK2
+PRKCA	interacts with	phosphatidic a.
+PRKCA	interacts with	PTEN
+S1PR4	interacts with	sphingosine-1-.
+S1PR4	interacts with	2-arachidonoyl.
+S1PR4	interacts with	SPHK2
+lecithin	interacts with	sphingomyelin
+lecithin	interacts with	PtdIns
+PTEN	interacts with	PtdIns
+PTEN	interacts with	ALB
+PTEN	interacts with	ceramide
+27-hydroxychol.	interacts with	24S-hydroxycho.
+ALOX15B	interacts with	arachidonic ac.
+ALOX15B	interacts with	PLA2G4A
+ALOX15B	interacts with	PTGS2
+ALOX15B	interacts with	PTGS1
+ALOX15B	interacts with	ALOX15
+ALOX15B	interacts with	ALOX12
+ALOX15B	interacts with	PLB1
+ALOX15B	interacts with	PLA2G1B
+docosahexaenoi.	interacts with	eicosapent.d (.
+docosahexaenoi.	interacts with	phosphatid.min.
+docosahexaenoi.	interacts with	Triacylglycero.
+ALOX15	interacts with	arachidonic ac.
+ALOX15	interacts with	ALOX12
+GCG	interacts with	oleic acid
+GCG	interacts with	O3FAR1
+GCG	interacts with	ALB
+GCG	interacts with	LPL
+GCG	interacts with	linolenic acid
+GCG	interacts with	APOB
+GCG	interacts with	docosahexaenoi.
+GCG	interacts with	eicosapent.d (.
+GCG	interacts with	CYP7A1
+GCG	interacts with	SREBF1
+GCG	interacts with	cholesterol
+GCG	interacts with	Triacylglycero.
+GCG	interacts with	APOE
+GCG	interacts with	HMGCR
+SPHK2	interacts with	sphingosine
+SPHK2	interacts with	sphingosine-1-.
+SPHK2	interacts with	ceramide
+phosphatid.min.	interacts with	phosphatid. (P.
+phosphatid.min.	interacts with	phosphatidic a.
+phosphatid.min.	interacts with	lysophosph.yle.
+phosphatid.min.	interacts with	cardiolipin
+phosphatid.min.	interacts with	sphingomyelin
+phosphatid.min.	interacts with	lecithin
+phosphatid.min.	interacts with	Triacylglycero.
+phosphatid.min.	interacts with	PtdIns
+phosphatid.min.	interacts with	monoacylglycer.
+phosphatid. (P.	interacts with	sphingomyelin
+phosphatid. (P.	interacts with	cardiolipin
+phosphatid. (P.	interacts with	phosphatidic a.
+phosphatid. (P.	interacts with	lecithin
+phosphatid. (P.	interacts with	lysophosph.yle.
+NPC1	interacts with	cholesterol
+NPC1	interacts with	SCARB1
+NPC1	interacts with	APOE
+NPC1	interacts with	APOA1
+NPC1	interacts with	sphingomyelin
+FADS2	interacts with	oleic acid
+FADS2	interacts with	linolenic acid
+FADS2	interacts with	PtdIns
+FADS2	interacts with	eicosapent.d (.
+FADS2	interacts with	arachidonic ac.
+SREBF1	interacts with	cholesterol
+SREBF1	interacts with	STAR
+SREBF1	interacts with	oleic acid
+SREBF1	interacts with	APOB
+SREBF1	interacts with	ceramide
+SREBF1	interacts with	SCARB1
+SREBF1	interacts with	HMGCR
+SREBF1	interacts with	CYP7A1
+SREBF1	interacts with	LPL
+SREBF1	interacts with	MTTP
+SREBF1	interacts with	DGAT2
+SREBF1	interacts with	Triacylglycero.
+SREBF1	interacts with	APOE
+SREBF1	interacts with	FADS2
+SREBF1	interacts with	APOA1
+SREBF1	interacts with	NPC1
+SREBF1	interacts with	ALB
+SREBF1	interacts with	CETP
+O3FAR1	interacts with	linolenic acid
+O3FAR1	interacts with	oleic acid
+O3FAR1	interacts with	eicosapent.d (.
+O3FAR1	interacts with	docosahexaenoi.
+O3FAR1	interacts with	NPC1
+phosphatidic a.	interacts with	cardiolipin
+phosphatidic a.	interacts with	monoacylglycer.
+phosphatidic a.	interacts with	PtdIns
+phosphatidic a.	interacts with	sphingomyelin
+phosphatidic a.	interacts with	lysophosph.yle.
+phosphatidic a.	interacts with	lecithin
+phosphatidic a.	interacts with	Triacylglycero.
+cardiolipin	interacts with	sphingomyelin
+cardiolipin	interacts with	monoacylglycer.
+cardiolipin	interacts with	lecithin
+cardiolipin	interacts with	lysophosph.yle.
+cardiolipin	interacts with	Triacylglycero.
+DGAT2	interacts with	Triacylglycero.
+DGAT2	interacts with	monoacylglycer.
+PLB1	interacts with	LCAT
+PLB1	interacts with	ALOX12
+PLB1	interacts with	LPCAT4
+PLB1	interacts with	PLA2G1B
+PLB1	interacts with	linolenic acid
+PLB1	interacts with	lecithin
+PLB1	interacts with	arachidonic ac.
+PLB1	interacts with	ALOX15
+PLB1	interacts with	FADS2
+LPCAT4	interacts with	lecithin
+LPCAT4	interacts with	PLA2G1B
+GM2A	interacts with	oleic acid

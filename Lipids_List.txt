@@ -1,0 +1,30 @@
+Phosphatidylserine
+Phosphatidylethanolamine
+Phosphatidylinositol
+Phosphatidylcholine
+Phosphatidylglycerol
+Phosphatidic Acid
+Sphingomyelin
+Sphingosine
+Sphingosine-1-phosphate
+Cholesterol
+27-hydroxycholesterol
+24S-hydroxycholesterol
+Ganglioside
+Oleic Acid
+Monoacylglycerol
+Diacyglycerol
+Triglyceride
+Cardiolipin
+Monophosphoryl lipid A
+Docosahexaenoic acid
+Eicosapentaenoic acid
+alpha-linolenic acid
+Arachidonic Acid
+Plasmalogens
+Sulfatides
+Ceramide
+2-Arachidonoylglycerol
+Arachidonoylethanolamine
+Lysophosphatidylcholine
+Lysophosphatidylethanolamine
